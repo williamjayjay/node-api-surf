@@ -1,0 +1,24 @@
+{
+  "name": "api-surf",
+  "version": "1.0.0",
+  "description": "Typescript Node.js APi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamjayjay/node-api-surf.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api"
+  ],
+  "author": "William Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamjayjay/node-api-surf/issues"
+  },
+  "homepage": "https://github.com/williamjayjay/node-api-surf#readme"
+}
